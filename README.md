@@ -1,3 +1,3 @@
 # CTU Brute Clone
 
-The clone of my work for 5 ears on CTU in Prague.
+A clone of my work from 5 years at CTU in Prague.
